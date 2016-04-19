@@ -1,0 +1,19 @@
+{
+  "name": "vendapaymentworker",
+  "version": "1.0.0",
+  "description": "Asynchronous payment worker for Venda Pay",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bulb-technologies/vendaPaymentWorker.git"
+  },
+  "author": "Onalethata Tautona <onnytau@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bulb-technologies/vendaPaymentWorker/issues"
+  },
+  "homepage": "https://github.com/bulb-technologies/vendaPaymentWorker#readme"
+}
