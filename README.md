@@ -1,2 +1,2 @@
 # vendaPaymentWorker
-Venda Payment Transaction Worker
+Venda Pay Payment Transaction Worker
